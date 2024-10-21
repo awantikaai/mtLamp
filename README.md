@@ -1,2 +1,0 @@
-# mtlamp
-My project folder
